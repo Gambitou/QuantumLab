@@ -1,0 +1,2 @@
+# Optional local semantic embeddings. Install only if your Python/PyTorch stack supports it.
+sentence-transformers
